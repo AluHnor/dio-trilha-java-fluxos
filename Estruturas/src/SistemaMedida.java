@@ -9,7 +9,7 @@ public class SistemaMedida {
         else if (sigla == "G")
             System.out.println("GRANDE");
         else
-            System.out.println("IONDEFINIDO");
+            System.out.println("INDEFINIDO");
 
 
     }
